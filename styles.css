@@ -27,6 +27,9 @@ body {
   margin: 0;
 }
 
+p {
+    font-family: 'Actor';  
+}
 
 nav ul {
   list-style: none;
