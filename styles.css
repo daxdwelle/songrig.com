@@ -55,7 +55,7 @@ a:hover {
 }
 
 .hero-image {
-      height: 100%;
+      height: 100px;
       width: 600px; 
       background-position: center;
       background-repeat: no-repeat; 
