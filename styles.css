@@ -61,5 +61,5 @@ a:hover {
       background-repeat: no-repeat; 
       background-size: cover; 
       position: relative; 
-      
+      display: block; 
 }
