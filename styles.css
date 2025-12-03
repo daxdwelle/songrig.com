@@ -37,3 +37,7 @@ nav ul {
   padding: 20px;
   margin: 0px;
 }
+
+a:link {
+      color: white; 
+}
