@@ -101,3 +101,12 @@ width: 100%;
       grid-auto-rows: 1fr;
       align-items: start; /*this is what lined up all of the items*/
 }
+
+.interviews-item {
+      display: flex;
+      flex-direction: column; 
+      gap: 8px;
+      
+      align-items: center; 
+      text-align: center; 
+}
