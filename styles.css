@@ -76,3 +76,8 @@ width: 100%;
       color: white;  
       text-align: center;
 }
+
+.main-interview img{
+      height: 150px;
+      width: 450px; 
+}
