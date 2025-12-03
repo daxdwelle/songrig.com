@@ -27,9 +27,6 @@ body {
   margin: 0;
 }
 
-nav {
-      position: sticky; 
-}
 
 nav ul {
   list-style: none;
