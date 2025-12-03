@@ -138,6 +138,26 @@ width: 100%;
       align-items: center; 
       text-align: center; 
 }
+.gear-grid {
+        display: grid;
+      gap: 10px;
+      margin-bottom: 8px; 
+      place-items: center; 
+      place-content: center; 
+      grid-template-columns: repeat(4,1fr); 
+      grid-auto-rows: 1fr;
+      align-items: start; /*this is what lined up all of the items*/
+}
+
+
+.gear-item {
+      display: flex;
+      flex-direction: column; 
+      gap: 8px;
+      
+      align-items: center; 
+      text-align: center; 
+}
 
 /* actor-regular - latin */
 @font-face {
