@@ -55,12 +55,10 @@ a:hover {
 }
 
 .heroimage {
-      max-height: 100%;
-      max-width: 100%; 
-      object-fit: cover; 
-      background-position: center;
-      background-repeat: no-repeat; 
-      background-size: cover; 
-      position: relative; 
-      display: block; 
+     position: relative; 
+       width: 100%;
+ margin:0;
+ padding:0;
+ display: block;
+ text-align: center;
 }
