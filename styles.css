@@ -89,6 +89,10 @@ width: 100%;
       width: 750px; 
 }
 
+.main-text h1 {
+      margin:0;
+}
+
 .main-text p {
       margin-right: 10px; 
 }
