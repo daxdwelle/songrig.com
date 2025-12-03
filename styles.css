@@ -80,7 +80,7 @@ width: 100%;
 .main-interview {
       display: flex;
       justify-content: space-between; 
-      padding: 15px; 
+      padding: 10px; 
       
 }
 
@@ -90,5 +90,5 @@ width: 100%;
 }
 
 .main-text p {
-      margin-right: 10px; 
+      margin-right: 80px; 
 }
