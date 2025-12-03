@@ -23,3 +23,14 @@
        
 
  Insert all your glorious CSS styles below! */
+
+nav ul {
+  list-style: none;
+  display: flex;  
+  justify-content: center;
+  flex-direction: row;
+  gap: 50px; 
+  background-color: black;
+  padding: 20px;
+  margin: 0px;
+}
