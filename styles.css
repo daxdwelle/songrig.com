@@ -36,13 +36,15 @@ nav ul {
   background-color: black;
   padding: 20px;
   margin: 0px;
-  text-decoration: none; 
+  
 }
 
 a:link {
       color: white; 
+        text-decoration: none; 
 }
 
 a:visited {
       color: white;
+        text-decoration: none; 
 }
