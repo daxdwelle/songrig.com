@@ -36,7 +36,7 @@ nav ul {
   background-color: #23294a;
   padding: 20px;
   margin: 0px;
-  
+  transition: all 0.3s ease-in-out;
 }
 
 a:link {
@@ -52,3 +52,4 @@ a:visited {
 a:hover {
       color: #7383d9; 
 }
+
