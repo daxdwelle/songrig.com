@@ -118,6 +118,15 @@ width: 100%;
       text-align: center; 
 }
 
+.instruments-item {
+      display: flex;
+      flex-direction: column; 
+      gap: 8px;
+      
+      align-items: center; 
+      text-align: center; 
+}
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
