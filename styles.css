@@ -83,17 +83,11 @@ width: 100%;
       padding: 10px; 
       margin: 0 auto; 
       gap: 10px;
+      width: 70%;
 }
 
 .main-interview img{
       height: 350px;
       width: 750px; 
 }
-/*
-.main-text h1 {
-      margin:0;
-}
 
-.main-text p {
-      margin-right: 10px; 
-} */
