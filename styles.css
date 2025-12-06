@@ -46,6 +46,7 @@ nav ul {
   padding: 20px;
   margin: 0px;
   transition: all 0.3s ease-in-out;
+  position: absolute; 
 }
 
 a:link {
