@@ -175,7 +175,25 @@ width: 100%;
       margin: 100px auto; 
 }
 
-.artist-item img {
+.artist-1 {
+      float: left;
+      margin-right: 20px; 
+        margin-left: 20px; 
+}
+
+.artist-2 {
+      float: left;
+      margin-right: 20px; 
+        margin-left: 20px; 
+}
+
+.artist-3 {
+      float: left;
+      margin-right: 20px; 
+        margin-left: 20px; 
+}
+
+.artist-4 {
       float: left;
       margin-right: 20px; 
         margin-left: 20px; 
