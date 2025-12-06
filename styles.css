@@ -171,6 +171,13 @@ width: 100%;
       height: 50px; 
 }
 
+.artist-item img {
+      float: left;
+      margin-right: 20px; 
+        margin-left: 20px; 
+}
+
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
