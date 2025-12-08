@@ -289,6 +289,10 @@ width: 100%;
       margin-left: 15px;
 }
 
+.home-instrument-item h2 {
+      font-size: 23px;
+}
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
