@@ -298,6 +298,10 @@ width: 100%;
       heihgt: 466px; 
 }
 
+.home-instrument-item li {
+      float:right; 
+}
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
