@@ -158,7 +158,8 @@ width: 100%;
 
 .instruments-item img {
       height: 150px; 
-      width: 150px;
+      /*width: 150px;*/
+      width: auto; 
 }
 .gear-grid {
         display: grid;
