@@ -28,6 +28,10 @@ body {
   background-color: #f1f3f4; 
 }
 
+h1 {
+      margin-top: 15px;
+}
+
 h1, h2 {
       font-family: 'Akshar';
 }
