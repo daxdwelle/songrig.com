@@ -120,6 +120,10 @@ width: 100%;
       text-align: center; 
 }
 
+.interviews-item h2 {
+      font-size: 50px; 
+}
+
 .instruments-grid {
         display: grid;
       gap: 10px;
