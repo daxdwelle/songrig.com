@@ -182,6 +182,11 @@ width: 100%;
       height: 50px; 
 }
 
+
+.gear-item h2 {
+            font-size: 35px; 
+}
+
 .home-grid {
         display: grid;
       gap: 10px;
