@@ -276,6 +276,10 @@ width: 100%;
       font-size: 23px; 
 }
 
+.home-h2 {
+      margin-left: 15px; 
+}
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
