@@ -139,7 +139,7 @@ width: 100%;
 .instruments-item {
       display: flex;
       flex-direction: column; 
-      gap: 4px;
+      gap: 0px;
       background-color: white; 
       align-items: center; 
       text-align: center; 
