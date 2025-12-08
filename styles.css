@@ -144,8 +144,8 @@ width: 100%;
       align-items: center; 
       text-align: center; 
       box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
-      height: 50px; 
-      widht: 30px; 
+      height: 150px; 
+      width: 130px; 
 }
 
 .instruments-item img {
