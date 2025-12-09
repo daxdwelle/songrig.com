@@ -134,6 +134,8 @@ width: 100%;
 
 .instruments-item p {
       font-size: 14px;
+      margin-left: 10px;
+      margin-right: 10px; 
 }
 
 .instruments-grid {
