@@ -140,7 +140,7 @@ width: 100%;
 
 .instruments-grid {
         display: grid;
-      gap: 10px;
+      gap: 5px;
       margin-bottom: 8px; 
       place-items: center; 
       place-content: center; 
