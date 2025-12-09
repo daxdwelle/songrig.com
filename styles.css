@@ -364,6 +364,7 @@ width: 100%;
 
 .song-link {
       color: #7383d9; 
+      text-decoration: none;
 }
 
 /* actor-regular - latin */
