@@ -362,7 +362,7 @@ width: 100%;
       height: 150px;
 }
 
-.song-link {
+a.song-link {
       color: #7383d9; 
       text-decoration: none;
 }
