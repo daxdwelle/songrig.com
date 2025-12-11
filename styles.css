@@ -236,22 +236,38 @@ width: 100%;
 }
 
 .artist-item-1 {
-      margin: 100px auto; 
+          margin: 100px auto; 
+      background-color: white;
+      display: flex; 
+      border: 1px solid lightgrey;
+      max-width: 1000px;
 }
 
 
 .artist-item-2 {
-      margin: 100px auto; 
+          margin: 100px auto; 
+      background-color: white;
+      display: flex; 
+      border: 1px solid lightgrey;
+      max-width: 1000px; 
 }
 
 
 .artist-item-3 {
-      margin: 100px auto; 
+          margin: 100px auto; 
+      background-color: white;
+      display: flex; 
+      border: 1px solid lightgrey;
+      max-width: 1000px; 
 }
 
 
 .artist-item-4 {
-      margin: 100px auto; 
+          margin: 100px auto; 
+      background-color: white;
+      display: flex; 
+      border: 1px solid lightgrey;
+      max-width: 1000px;
 }
 
 .artist-1 {
