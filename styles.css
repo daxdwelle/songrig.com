@@ -358,7 +358,7 @@ width: 100%;
 .song-2 {
       float: left;
       margin-right: 20px; 
-        margin-left: 20px; 
+        margin-left: 0px; 
        width: 150px; 
       height: 150px;
 }
@@ -366,7 +366,7 @@ width: 100%;
 .song-3 {
       float: left;
       margin-right: 20px; 
-        margin-left: 20px; 
+        margin-left: 0px; 
        width: 150px; 
       height: 150px;
 }
@@ -374,7 +374,7 @@ width: 100%;
 .song-4 {
       float: left;
       margin-right: 20px; 
-        margin-left: 20px; 
+        margin-left: 0px; 
        width: 150px; 
       height: 150px;
 }
