@@ -317,6 +317,7 @@ width: 100%;
       background-color: white;
       display: flex; 
       border: 1px solid lightgrey;
+      max-width: 500px;
 }
 
 
@@ -325,6 +326,7 @@ width: 100%;
       background-color: white;
        display: flex; 
       border: 1px solid lightgrey;
+      max-width: 500px;
 }
 
 
@@ -333,6 +335,7 @@ width: 100%;
       background-color: white;
        display: flex; 
       border: 1px solid lightgrey;
+      max-width: 500px;
 }
 
 
@@ -341,6 +344,7 @@ width: 100%;
       background-color: white;
        display: flex; 
       border: 1px solid lightgrey;
+      max-width: 500px;
 }
 
 .song-1 {
