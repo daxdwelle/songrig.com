@@ -421,6 +421,15 @@ a.song-link {
       
 }
 
+footer {
+      
+      background-color: grey;
+      color: white;
+      text-align: center;
+      padding: 3px; 
+      width: 99.5%
+}
+
 /* actor-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
