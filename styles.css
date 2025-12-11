@@ -217,6 +217,7 @@ width: 100%;
       grid-template-columns: repeat(4,1fr); 
       grid-auto-rows: 1fr;
       align-items: start; /*this is what lined up all of the items*/
+      background-color: white;
 }
 
 
