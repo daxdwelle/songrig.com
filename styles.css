@@ -315,7 +315,7 @@ width: 100%;
 .song-item-1 {
       margin: 100px auto; 
       background-color: white;
-      display: flex; 
+      display: inline-flex; 
       border: 1px solid lightgrey;
       max-width: 500px;
 }
