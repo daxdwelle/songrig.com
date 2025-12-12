@@ -421,7 +421,7 @@ a.song-link {
 .song-text {
       display:flex;
       flex-direction: column;
-      margin: 5px 0;
+      margin-bottom: 4px;
 }
 
 .let-text {
