@@ -319,6 +319,14 @@ width: 100%;
       height: 150px;
 }
 
+.artist-profile {
+      float: left;
+      margin-right: 20px; 
+        margin-left: 5px; 
+      width: 150px; 
+      height: 150px;
+}
+
 .intro-text {
       text-align: center; 
 }
