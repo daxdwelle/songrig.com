@@ -441,11 +441,7 @@ footer {
       width: 99.5%
 }
 
-.page-container {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-}
+
 
 /* actor-regular - latin */
 @font-face {
