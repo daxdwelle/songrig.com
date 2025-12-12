@@ -418,6 +418,11 @@ a.song-link {
       text-decoration: none;
 }
 
+.song-text {
+      display:flex;
+      flex-direction: column;
+}
+
 .let-text {
       margin-left: 15px;
       
